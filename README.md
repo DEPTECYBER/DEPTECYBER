@@ -76,6 +76,8 @@
 <div align="center">
   <p><b>Visitors Count</b></p>  
   <img src="https://profile-counter.glitch.me/{DEPTECYBER}/count.svg"/>
+  ![Contador de Visitas](https://profile-counter.glitch.me/{DEPTECYBER}/count.svg)
+
 </div>
 
 <br><br>
