@@ -76,7 +76,7 @@
 <div align="center">
   <p><b>Visitors Count</b></p>  
   <img src="https://profile-counter.glitch.me/{DEPTECYBER}/count.svg"/>
-
+  ![](https://komarev.com{DEPTECYBER}&color=green&label=VISITAS)
 </div>
 
 <br><br>
