@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=135a00&height=90&section=header"/>
 
 <!-- Oii! Eu sou a Rafa Pastrello -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=false&vCenter=false&width=1100&lines=D+E+P+T+E+C+H+ㅤ+C+Y+B+E+R+ㅤ+E+-+D+U+X)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=false&vCenter=false&width=1100&lines=D+E+P+A+R+T+A+M+E+N+T+O+ㅤ+T+E+C+N+I+C+O+ㅤㅤ+C+Y+B+E+R+ㅤ+E+-+D+U+X)](https://git.io/typing-svg)
 
 <br>
 
