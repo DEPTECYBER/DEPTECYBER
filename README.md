@@ -7,7 +7,7 @@
 <br>
 
 <!-- Gráfico -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DEPTECYBER&bg_color=0d1117&color=00FF00&line=b13583&point=FFC83D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DEPTECYBER&bg_color=0d1117&color=00FF00&line=7A29C1&point=FD8E03&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
